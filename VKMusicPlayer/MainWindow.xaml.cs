@@ -183,7 +183,10 @@ namespace VKMusicPlayer
                         {
                             webClient.DownloadFile(item.Album.Thumb.Photo600, $"Albums\\{item.Album.Id}.png");
                         }
-                        catch { }
+                        catch(Exception ex)
+                        {
+                            MessageBox.Show($"{ex.Message}");
+                        }
                     }
                 }
             }

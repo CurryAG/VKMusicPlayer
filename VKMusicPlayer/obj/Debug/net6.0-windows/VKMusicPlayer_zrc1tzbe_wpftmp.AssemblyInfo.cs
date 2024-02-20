@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VKMusicPlayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d11ceca88194abe9d1c20c4a03fdf63aa9f1e50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f54cc348943e4659334858a778663531f8329dfe")]
 [assembly: System.Reflection.AssemblyProductAttribute("VKMusicPlayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VKMusicPlayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

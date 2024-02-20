@@ -1,5 +1,5 @@
 ﻿VKMusicPlayer
-1.0.0.0
+
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Curry\YandexDisk\Sources\Main_projects\VKMusicPlayer\VKMusicPlayer\App.xaml
 5891959871
 
-11-1655980261
+9-100107502
 2061540563449
 CaptchaEntry.xaml;LoginWindow.xaml;MainWindow.xaml;SettingsWindow.xaml;TwoFactorAuth.xaml;
 
